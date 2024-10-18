@@ -1,0 +1,17 @@
+{
+    "template": "https://github.com/krck360_alexion/project-cookiecutter",
+    "commit": "c36b61d5e26c1f65581a345cb20ecd586b4a230d",
+    "checkout": null,
+    "context": {
+        "cookiecutter": {
+            "project_name": "{{cookiecutter.project_name}}",
+            "project_slug": "{{cookiecutter.project_slug}}",
+            "package_name": "{{cookiecutter.package_name}}",
+            "version": "{{cookiecutter.version}}",
+            "repository_url": "{{cookiecutter.repository_url}}",
+            "project_description": "{{cookiecutter.project_description}}",
+            "_template": "https://github.com/krck360_alexion/project-cookiecutter"
+        }
+    },
+    "directory": null
+}
